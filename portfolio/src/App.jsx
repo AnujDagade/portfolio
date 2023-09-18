@@ -14,15 +14,15 @@ function App() {
         About Myself
         <p className="small">
           {/* Edit <code>src/App.js</code> and save to reload. */}
-          Hi I am Anuj currently pursuing my masters in Computer Science
+          Hi I am Anuj currently pursuing my masters in Computer Science.
         </p>
         <p className='small'>
-            I am working on becoming a full stack developer
-         </p> 
+          I am working on becoming a full stack developer.
+        </p>
         <p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="www.linkedin.com/in/anuj-dagade"
             target="_blank"
             rel="noopener noreferrer"
           >
