@@ -22,7 +22,7 @@ function App() {
         <p>
           <a
             className="App-link"
-            href="www.linkedin.com/in/anuj-dagade"
+            href="https://www.linkedin.com/in/anuj-dagade"
             target="_blank"
             rel="noopener noreferrer"
           >
